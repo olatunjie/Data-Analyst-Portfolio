@@ -7,6 +7,23 @@ Hello, I'm Tunji! I have a strong technical background and a Bachelors degree in
 This is a repository that I have created to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 <br>
 
+## Table of contents
+- [About](#about)
+- [Portfolio Projects](#portfolio-projects)
+	+ [Video Games Sales Analysis](#video-games-sales-analysis)
+- [Certificates](#certificates)
+- [Contacts](#contacts)
+
+## Portfolio Projects
+The section below contains a list data analytics projects briefly describing the technology stack used to solve cases.
+
+### Stock Price Prediction
+**Code:** [Stock Price Prediction](https://github.com/olatunjie/Data-Analyst-Portfolio/blob/main/Stock%20Prediction/StockPrediction.ipynb)    
+**Description:** The dataset contains about 100 records of stock prices.  
+**Skills:** data cleaning, data analysis, descriptive statistics, support vector Regression.  
+**Technology:** Python, Pandas, Numpy, scikit-learn.  
+**Results:** Review of the global and regional video games markets, data-based business recommendations. 
+
 
 ## Certificates
 [Business Intelligence & Power BI](https://www.dropbox.com/s/hribh9f5vgjh92n/BUSINESS%20ANALYTICS%20AND%20POWER%20BI.pdf?dl=0)
