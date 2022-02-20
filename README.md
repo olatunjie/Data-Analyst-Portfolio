@@ -10,7 +10,7 @@ This is a repository that I have created to showcase skills, share projects and 
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
+	+ [Stock Price Prediction](#stock-price-prediction)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
@@ -22,12 +22,12 @@ The section below contains a list data analytics projects briefly describing the
 **Description:** The dataset contains about 100 records of stock prices.  
 **Skills:** data cleaning, data analysis, descriptive statistics, support vector Regression.  
 **Technology:** Python, Pandas, Numpy, scikit-learn.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations. 
+**Results:** Review of the fiticious stock prices. 
 
 
 ## Certificates
 [Business Intelligence & Power BI](https://www.dropbox.com/s/hribh9f5vgjh92n/BUSINESS%20ANALYTICS%20AND%20POWER%20BI.pdf?dl=0)
 
 ## Contacts
-- LinkedIn: [Olatunji Ewebiyi](https://www.linkedin.com/in/nktnlx)
+- LinkedIn: [Olatunji Ewebiyi](https://www.linkedin.com/in/olatunji-ewebiyi-a4b8321a/)
 - E-mail: olatunji.ewebiyi@gmail.com
