@@ -25,7 +25,7 @@ The section below contains a list data analytics projects briefly describing the
 **Technology:** Python, Pandas, Numpy, scikit-learn.  
 **Results:** Review of the fiticious stock prices. 
 ### Company XYZ Data Analysis
-**Code:** [Comapny XYZ Data Analysis](https://github.com/olatunjie/Data-Analyst-Portfolio/blob/main/Company%20XYZ%20Analysis/Analyzed_Supermarket_Data_Across_the_Country.ipynb) 
+**Code:** [Comapny XYZ Data Analysis](https://github.com/olatunjie/Data-Analyst-Portfolio/blob/main/Company%20XYZ%20Analysis/Analyzed_Supermarket_Data_Across_the_Country.ipynb)
 **Description:** The dataset contains about 100 records of stock prices.  
 **Skills:** data cleaning, data analysis, descriptive statistics, support vector Regression.  
 **Technology:** Python, Pandas, Numpy, scikit-learn.  
