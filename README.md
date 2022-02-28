@@ -24,7 +24,12 @@ The section below contains a list data analytics projects briefly describing the
 **Skills:** data cleaning, data analysis, descriptive statistics, support vector Regression.  
 **Technology:** Python, Pandas, Numpy, scikit-learn.  
 **Results:** Review of the fiticious stock prices. 
-
+### Company XYZ Data Analysis
+**Code:** [Stock Price Prediction](https://github.com/olatunjie/Data-Analyst-Portfolio/blob/main/Stock%20Prediction/StockPrediction.ipynb)    
+**Description:** The dataset contains about 100 records of stock prices.  
+**Skills:** data cleaning, data analysis, descriptive statistics, support vector Regression.  
+**Technology:** Python, Pandas, Numpy, scikit-learn.  
+**Results:** Review of the fiticious stock prices. 
 
 ## Certificates
 [Business Intelligence & Power BI](https://www.dropbox.com/s/hribh9f5vgjh92n/BUSINESS%20ANALYTICS%20AND%20POWER%20BI.pdf?dl=0)
