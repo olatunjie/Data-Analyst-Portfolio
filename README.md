@@ -11,6 +11,7 @@ This is a repository that I have created to showcase skills, share projects and 
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Stock Price Prediction](#stock-price-prediction)
+	+ [Company XYZ Data Analysis](#company-xyz-data-analysis)
 - [Certificates](#certificates)
 - [Contacts](#contacts)
 
